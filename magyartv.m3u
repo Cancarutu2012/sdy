@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="M1" group-title="TV",M1 élő + hang
+https://c202-node61-cdn.connectmedia.hu/110101/44dfcbe51abd737b947cb57dcaa57a8b/6984ac62/index.m3u8?v=5iip:81.93.193.198
+
+#EXTINF:-1 tvg-name="M2" group-title="TV",M2 élő + hang
+https://c202-node62-cdn.connectmedia.hu/110102/a5d5a62f2ab1bf17f832760bcb9acce3/6984acc9/index.m3u8?v=5iip:81.93.193.198
+
+#EXTINF:-1 tvg-name="M4" group-title="TV",M4 élő + hang
+https://c402-node62-cdn.connectmedia.hu/150104/69c61b3b69a8d80239c66a6f00684bf1/6984ad60/index.m3u8?v=5iip:81.93.193.198
+
+#EXTINF:-1 tvg-name="M5" group-title="TV",M5 élő + hang
+https://c402-node62-cdn.connectmedia.hu/110105/fb8aeaf69808eb4b3d576cec15326ee7/6984adb1/index.m3u8?v=5iip:81.93.193.198
+
+#EXTINF:-1 tvg-name="Duna" group-title="TV",Duna élő + hang
+https://c201-node62-cdn.connectmedia.hu/110103/d1abc06bba30cad5919de97bec860e6f/6984add3/index.m3u8?v=5iip:81.93.193.198
+
+#EXTINF:-1 tvg-name="Duna World" group-title="TV",Duna World élő + hang
+https://c201-node61-cdn.connectmedia.hu/150106/904e2354f58a86032d94e69305bcb1b8/6984adf2/index.m3u8?v=5iip:81.93.193.198
